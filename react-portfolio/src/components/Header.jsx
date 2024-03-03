@@ -1,13 +1,12 @@
+import Navigation from "./Navigation";
 
 
-function Header(props) {
-
-    const { currentPage, handlePageChange } = props;
-
+function Header({currentPage, handlePageChange}) {
+    
     return (
         <header>
             <div>
-				<h2>Erik Aku's Portfolio</h2>
+				<h2 className="name">Erik Aku</h2>
 			</div>
             <div>
 				<Navigation
