@@ -1,3 +1,5 @@
+import resume from "../assets/files/erikaku.pdf";
+
 function Resume() {
     return (
         <section>
@@ -6,7 +8,7 @@ function Resume() {
             </div> 
                <br></br>
            <div className="pdf">
-                <a href={('src/assets/files/erikaku.pdf')} alt='Download Resume'><h2>Download Resume</h2>
+                <a href={resume} alt='Download Resume'><h2>Download Resume</h2>
                     </a>
                 </div>
             <div className='skills'>
