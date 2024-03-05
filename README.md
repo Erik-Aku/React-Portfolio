@@ -1,8 +1,14 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+A personal portfolio built with React. It includes an About, Portfolio, Contact, and Resume section.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application is deployed via Netlify: https://65e7adeec14acb9316bc4470--lovely-griffin-8aab1a.netlify.app/
+
+## Installation
+
+- The required modules are bundled in the package.json file. From the terminal, run  `npm install` and the modules will be installed.
+- Run `npm run start` to start the application
+
+![localhost_5173_](https://github.com/Erik-Aku/React-Portfolio/assets/92487526/407690c4-16a1-495c-94b6-b9f8e30ec10e)
