@@ -1,4 +1,5 @@
 import Project from "./Project";
+import audiophiles from "../assets/images/portfolio/audiophiles.png"
 
 function Portfolio() {
   const projects = [
@@ -7,7 +8,7 @@ function Portfolio() {
       title: "Audiophiles",
       github: "https://github.com/Erik-Aku/Audiophiles",
       deployed: "https://mighty-spire-51902-9cbcd11d8451.herokuapp.com/",
-      image: "audiophiles.png",
+      image: audiophiles,
     },
     {
       id: 1,
